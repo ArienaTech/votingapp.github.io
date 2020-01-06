@@ -1,0 +1,26 @@
+{
+    "contestants":[
+        {"name":"Yadean Payne","score":0,"residence":"Aukland West","job":"Software Developer","picture":"./pictures/n_1.jpg","profile":["./pictures/n_1.jpg","./pictures/n_2.jpg","./pictures/n_3.jpg","./pictures/n_4.jpg","./pictures/n_5.jpg","./pictures/n_6.jpg"]},
+        {"name":"Zhen Pan","score":0,"residence":"Aukland West","job":"Software Developer","picture":"./pictures/n_2.jpg","profile":["./pictures/n_1.jpg","./pictures/n_2.jpg","./pictures/n_3.jpg","./pictures/n_4.jpg","./pictures/n_5.jpg","./pictures/n_6.jpg"]},
+        {"name":"Layla Bataev","score":0,"residence":"Aukland West","job":"Software Developer","picture":"./pictures/n_3.jpg","profile":["./pictures/n_1.jpg","./pictures/n_2.jpg","./pictures/n_3.jpg","./pictures/n_4.jpg","./pictures/n_5.jpg","./pictures/n_6.jpg"]},
+        {"name":"Enrica Arias","score":0,"residence":"Aukland West","job":"Software Developer","picture":"./pictures/n_4.jpg","profile":["./pictures/n_1.jpg","./pictures/n_2.jpg","./pictures/n_3.jpg","./pictures/n_4.jpg","./pictures/n_5.jpg","./pictures/n_6.jpg"]},
+        {"name":"Danielle Welch","score":0,"residence":"Aukland West","job":"Software Developer","picture":"./pictures/n_5.jpg","profile":["./pictures/n_1.jpg","./pictures/n_2.jpg","./pictures/n_3.jpg","./pictures/n_4.jpg","./pictures/n_5.jpg","./pictures/n_6.jpg"]}
+    ],
+    "stars":[
+        {"name":"test2","residence":"Aukland West","job":"Software Developer","picture":"./pictures/n_1.jpg"},
+        {"name":"test2","residence":"Aukland West","job":"Software Developer","picture":"./pictures/n_1.jpg"}
+    ],
+    "user":{
+        "username": "SmileMore",
+        "first": "Ariena",
+        "last": "Phannaen",
+        "email": "smile@gmail.com",
+        "phone": "+1 209 000 0000",
+        "picture": "./pictures/user1.png"
+    },
+    "news":[
+        "./pictures/n_1.jpg","./pictures/n_2.jpg","./pictures/n_3.jpg",
+        "./pictures/n_4.jpg","./pictures/n_5.jpg","./pictures/n_6.jpg",
+        "./pictures/n_7.jpg","./pictures/n_8.jpg","./pictures/n_9.jpg"
+    ]
+}
